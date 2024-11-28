@@ -3,6 +3,8 @@ kaitrna (2nd)
 
 In file names, "score" is a fraction of 1.0.
 
+https://www.hackerrank.com/contests/uqcs-codejam-2023/leaderboard
+
 | # | Challenge | Score (Time) |
 |---|-----------|--------------|
 | 1 | Apple That I Am Going To Eat | 20.00pts (5:09) |
@@ -58,3 +60,6 @@ In file names, "score" is a fraction of 1.0.
 | 51 | Space | Did Not Attempt |
 | 52 | Lucky | Did Not Attempt |
 | 53 | Murder Room | Did Not Attempt |
+
+
+repository made with https://gist.github.com/katrinafyi/268e8c3a701781cc782cb31da06b57be
